@@ -1,0 +1,12 @@
+.text-container {
+    background-color: rgba(0, 0, 0, 0.8); /* Adjust the alpha value to control darkness */
+    border-radius: 10px; /* Add rounded corners */
+    max-width: 600px; /* Adjust the maximum width of the text content */
+    margin: 0 auto; /* Center the container horizontally */
+    overflow: hidden; /* Hide content that goes beyond the specified width */
+    padding: 20px; /* Add padding for better readability */
+  }
+  
+  .text-content {
+    color: white; /* Set text color to white for better visibility */
+  }
